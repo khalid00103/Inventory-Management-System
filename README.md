@@ -2,6 +2,23 @@
 
 A comprehensive, scalable inventory management system built with modern web technologies and production-ready patterns.
 
+## 📸 Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Products
+![Products](screenshots/products.png)
+
+### Add Product
+![Add Product](screenshots/add-product.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### Low Stock Alerts
+![Low Stock](screenshots/low-stock.png)
+
 ## 🚀 Tech Stack
 
 ### Frontend
