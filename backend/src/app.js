@@ -17,7 +17,7 @@ const transactionRoutes = require('./routes/transactionRoutes');
 const dashboardRoutes = require('./routes/dashboardRoutes');
 
 const app = express();
-
+app.set('trust proxy', 1);
 // Security middleware
 app.use(helmet());
 
